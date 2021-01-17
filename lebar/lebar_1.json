@@ -1,4 +1,6 @@
-[
+{
+  "type": "FeatureCollection",
+  "features":[
       {
         "type": "Feature",
         "id": 0,
@@ -25,7 +27,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Tersumbat / Banyak Sampah",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/1_YosSudarso_depanStadion.jpg"
         }
       },
       {
@@ -54,7 +57,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/1_YosSudarso_depanStadion.jpg"
         }
       },
       {
@@ -83,7 +87,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/1_YosSudarso_depanStadion.jpg"
         }
       },
       {
@@ -112,7 +117,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/1c_type.jpg"
         }
       },
       {
@@ -141,7 +147,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Tersumbat / Banyak Sampah",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/1c_type.jpg"
         }
       },
       {
@@ -170,7 +177,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/1c_type.jpg"
         }
       },
       {
@@ -199,7 +207,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/1c_type.jpg"
         }
       },
       {
@@ -228,7 +237,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/3_type6.jpg"
         }
       },
       {
@@ -257,7 +267,8 @@
           "Arah_Alir": "Kanan",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/3_type6.jpg"
         }
       },
       {
@@ -286,7 +297,8 @@
           "Arah_Alir": "Kanan",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/3_type6.jpg"
         }
       },
       {
@@ -315,7 +327,8 @@
           "Arah_Alir": "Kanan",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/3_type6.jpg"
         }
       },
       {
@@ -344,7 +357,8 @@
           "Arah_Alir": "Kanan",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/3_type6.jpg"
         }
       },
       {
@@ -373,7 +387,8 @@
           "Arah_Alir": "Kanan",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/3_type6.jpg"
         }
       },
       {
@@ -402,7 +417,8 @@
           "Arah_Alir": "Kanan",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/3_type6.jpg"
         }
       },
       {
@@ -431,7 +447,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Tersumbat / Banyak Sampah",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/6_paus.jpg"
         }
       },
       {
@@ -460,7 +477,8 @@
           "Arah_Alir": "Kanan",
           "Akhir_Pemb": "Pembuangan Paus (Asrama Unri)",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/7_paus.jpg"
         }
       },
       {
@@ -489,7 +507,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Tersumbat / Banyak Sampah",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/9_depankampusunri.jpg"
         }
       },
       {
@@ -518,7 +537,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/9-2_pausdepanHKBP.jpg"
         }
       },
       {
@@ -547,7 +567,8 @@
           "Arah_Alir": "Menggenang",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/Paus_6_menggenang.png"
         }
       },
       {
@@ -576,7 +597,8 @@
           "Arah_Alir": "Menggenang",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/Paus_6_menggenang.png"
         }
       },
       {
@@ -605,7 +627,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/9-2_pausdepanHKBP.jpg"
         }
       },
       {
@@ -634,7 +657,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/9-2_pausdepanHKBP.jpg"
         }
       },
       {
@@ -663,7 +687,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/9-2_pausdepanHKBP.jpg"
         }
       },
       {
@@ -692,7 +717,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/10_jalanSukaMaju.jpg"
         }
       },
       {
@@ -721,7 +747,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/10-1_JalanSukaMaju.jpg"
         }
       },
       {
@@ -750,7 +777,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/10-2_JalanSukaMaju.jpg"
         }
       },
       {
@@ -779,7 +807,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/11_JalanSukaMaju.jpg"
         }
       },
       {
@@ -809,6 +838,7 @@
           "Akhir_Pemb": " ",
           "Status": "Rawan Banjir",
           "Kondisi_Ke": "Parah",
+          "Gambar": "assets/img/drainase/11-1_JalanSukaMaju.jpg"
           
         }
       },
@@ -1145,3 +1175,4 @@
         }
       }
     ]
+  }

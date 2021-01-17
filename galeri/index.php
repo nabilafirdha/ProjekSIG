@@ -216,7 +216,7 @@ https://templatemo.com/tm-518-sentra
         </section>
 
         <!-- Jalan Lembah Damai -->
-        <section id="featured" class="content-section">
+        <section id="projects" class="content-section">
             <div class="section-heading">
                 <h1>Jalan<br><em>Paus-Rumbai</em></h1>
 
@@ -327,7 +327,7 @@ https://templatemo.com/tm-518-sentra
         </section>
 
         <!-- Jalan Lembah Damai -->
-        <section id="featured" class="content-section">
+        <section id="bl" class="content-section">
             <div class="section-heading">
                 <h1>Jalan<br><em>Paus-Rumbai</em></h1>
 
