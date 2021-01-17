@@ -1,0 +1,156 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.446763,
+          0.572666
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "No": 40,
+        "Titik": "ParitLembahDamai",
+        "Lat__y_": 0.572666,
+        "Long__x_": 101.446763,
+        "Nama_Jalan": "Lembah Damai",
+        "Panjang__m": 220,
+        "Total_panj": 520,
+        "Lebar__m_": 3.5,
+        "Kedalaman": 1.7,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kiri",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/16_lembahdamai.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44593,
+          0.574506
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "No": 41,
+        "Titik": "ParitLembahDamai",
+        "Lat__y_": 0.574506,
+        "Long__x_": 101.44593,
+        "Nama_Jalan": "Lembah Damai",
+        "Panjang__m": 150,
+        "Total_panj": 0,
+        "Lebar__m_": 3.5,
+        "Kedalaman": 1.7,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kiri",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/16-1_lembahdamai.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.445265,
+          0.575745
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "No": 42,
+        "Titik": "ParitLembahDamai",
+        "Lat__y_": 0.575745,
+        "Long__x_": 101.445265,
+        "Nama_Jalan": "Lembah Damai",
+        "Panjang__m": 150,
+        "Total_panj": 0,
+        "Lebar__m_": 2.7,
+        "Kedalaman": 2,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kiri",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/16-2_lembahdamai.jpg"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.444778,
+          0.577407
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "No": 43,
+        "Titik": "ParitLembahDamai",
+        "Lat__y_": 0.577407,
+        "Long__x_": 101.444778,
+        "Nama_Jalan": "Lembah Damai",
+        "Panjang__m": 150,
+        "Total_panj": 0,
+        "Lebar__m_": 2.8,
+        "Kedalaman": 1,
+        "Bahan": "Tanah",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Menggenang",
+        "Akhir_Pemb": " ",
+        "Status": "Rawan Banjir",
+        "Kondisi_Ke": "Kecil",
+        "Gambar": "assets/img/drainase/16-3_lembahdamai.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.444716,
+          0.5787677
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "No": 44,
+        "Titik": "ParitLembahDamai",
+        "Lat__y_": 0.5787677,
+        "Long__x_": 101.444716,
+        "Nama_Jalan": "Lembah Damai",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 2.8,
+        "Kedalaman": 1,
+        "Bahan": "Tanah",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Menggenang",
+        "Akhir_Pemb": " ",
+        "Status": "Rawan Banjir",
+        "Kondisi_Ke": "Kecil",
+        "Gambar": "assets/img/drainase/16-4_lembahdamai.jpg"
+      }
+    }
+  ]
+}

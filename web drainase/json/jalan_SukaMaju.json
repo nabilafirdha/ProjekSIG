@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.432851,
+          0.606576
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "No": 24,
+        "Titik": "ParitSukaMaju_1",
+        "Lat__y_": 0.606576,
+        "Long__x_": 101.432851,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 150,
+        "Total_panj": 218,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.3,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/10_jalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.434182,
+          0.606534
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "No": 25,
+        "Titik": "ParitSukaMaju_1",
+        "Lat__y_": 0.606534,
+        "Long__x_": 101.434182,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 68,
+        "Total_panj": 0,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.7,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/10-1_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.43417,
+          0.607082
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "No": 26,
+        "Titik": "ParitSukaMaju_1",
+        "Lat__y_": 0.607082,
+        "Long__x_": 101.43417,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.7,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/10-2_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.436115,
+          0.608297
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "No": 27,
+        "Titik": "ParitSukaMaju_2",
+        "Lat__y_": 0.608297,
+        "Long__x_": 101.436115,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 100,
+        "Total_panj": 250,
+        "Lebar__m_": 0.6,
+        "Kedalaman": 0.87,
+        "Bahan": "Beton",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/11_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.436956,
+          0.608771
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "No": 28,
+        "Titik": "ParitSukaMaju_2",
+        "Lat__y_": 0.608771,
+        "Long__x_": 101.436956,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 150,
+        "Total_panj": 0,
+        "Lebar__m_": 0.6,
+        "Kedalaman": 0.87,
+        "Bahan": "Beton",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Rawan Banjir",
+        "Kondisi_Ke": "Parah",
+        "Gambar": "assets/img/drainase/11-1_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.437332,
+          0.608915
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "No": 29,
+        "Titik": "ParitSukaMaju_2",
+        "Lat__y_": 0.608915,
+        "Long__x_": 101.437332,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 0,
+        "Kedalaman": 0,
+        "Bahan": "Tanah",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": "Pembuangan Suka Maju",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/11-2_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.438311,
+          0.609359
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "No": 30,
+        "Titik": "ParitSukaMaju_3",
+        "Lat__y_": 0.609359,
+        "Long__x_": 101.438311,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 93,
+        "Total_panj": 93,
+        "Lebar__m_": 1,
+        "Kedalaman": 0.8,
+        "Bahan": "Batu",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/12_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.438945,
+          0.609758
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "No": 31,
+        "Titik": "ParitSukaMaju_3",
+        "Lat__y_": 0.609758,
+        "Long__x_": 101.438945,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 1.2,
+        "Kedalaman": 1.5,
+        "Bahan": "Tanah",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Tersumbat / Banyak Sampah",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/12-1_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.440352,
+          0.612294
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "No": 32,
+        "Titik": "ParitSukaMaju_4",
+        "Lat__y_": 0.612294,
+        "Long__x_": 101.440352,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 150,
+        "Total_panj": 165,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.7,
+        "Bahan": "Batu",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/13_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.441016,
+          0.613452
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "No": 33,
+        "Titik": "ParitSukaMaju_4",
+        "Lat__y_": 0.613452,
+        "Long__x_": 101.441016,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 15,
+        "Total_panj": 0,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.7,
+        "Bahan": "Batu",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Menggenang",
+        "Akhir_Pemb": " ",
+        "Status": "Tersumbat / Banyak Sampah",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/13-1_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.440995,
+          0.61354
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "No": 34,
+        "Titik": "ParitSukaMaju_4",
+        "Lat__y_": 0.61354,
+        "Long__x_": 101.440995,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 0.8,
+        "Kedalaman": 0.8,
+        "Bahan": "Batu",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Menggenang",
+        "Akhir_Pemb": " ",
+        "Status": "Tersumbat / Banyak Sampah",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/13-2_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44305,
+          0.617352
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "No": 35,
+        "Titik": "ParitSukaMaju_5",
+        "Lat__y_": 0.617352,
+        "Long__x_": 101.44305,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 100,
+        "Total_panj": 130,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.7,
+        "Bahan": "Beton",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Tersumbat / Banyak Sampah",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/14_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.443881,
+          0.617686
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "No": 36,
+        "Titik": "ParitSukaMaju_5",
+        "Lat__y_": 0.617686,
+        "Long__x_": 101.443881,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 30,
+        "Total_panj": 0,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.7,
+        "Bahan": "Beton",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Tersumbat / Banyak Sampah",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/14-1_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.444149,
+          0.617861
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "No": 37,
+        "Titik": "ParitSukaMaju_5",
+        "Lat__y_": 0.617861,
+        "Long__x_": 101.444149,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.7,
+        "Bahan": "Beton",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Tersumbat / Banyak Sampah",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/14-2_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44067,
+          0.612507
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "No": 38,
+        "Titik": "ParitSukaMaju_6",
+        "Lat__y_": 0.612507,
+        "Long__x_": 101.44067,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 160,
+        "Total_panj": 160,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.5,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/15_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.439808,
+          0.611378
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "No": 39,
+        "Titik": "ParitSukaMaju_6",
+        "Lat__y_": 0.611378,
+        "Long__x_": 101.439808,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.5,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/15-1_JalanSukaMaju.jpg"
+      }
+    }
+  ]
+}
