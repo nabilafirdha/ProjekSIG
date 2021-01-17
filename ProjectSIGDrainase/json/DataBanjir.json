@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.436956, 0.60877099999999995]
+        },
+      "properties": {
+        "FID": 0,
+        "No": 28,
+        "Titik": "ParitSukaMaju_2",
+        "Lat__y_": 0.60877099999999995,
+        "Long__x_": 101.436956,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 150,
+        "Total_panj": 0,
+        "Lebar__m_": 0.59999999999999998,
+        "Kedalaman": 0.87,
+        "Bahan": "Beton",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Rawan Banjir",
+        "Kondisi_Ke": "Parah",
+        "Gambar": "assets/img/drainase/11-1_JalanSukaMaju.jpg"
+      }
+    }, {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.444778, 0.577407]
+        },
+      "properties": {
+        "FID": 1,
+        "No": 43,
+        "Titik": "ParitLembahDamai",
+        "Lat__y_": 0.577407,
+        "Long__x_": 101.444778,
+        "Nama_Jalan": "Lembah Damai",
+        "Panjang__m": 150,
+        "Total_panj": 0,
+        "Lebar__m_": 2.7999999999999998,
+        "Kedalaman": 1,
+        "Bahan": "Tanah",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Menggenang",
+        "Akhir_Pemb": " ",
+        "Status": "Rawan Banjir",
+        "Kondisi_Ke": "Kecil",
+        "Gambar": "assets/img/drainase/16-3_lembahdamai.jpg"
+      }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.444716, 0.5787677]
+        },
+      "properties": {
+        "FID": 2,
+        "No": 44,
+        "Titik": "ParitLembahDamai",
+        "Lat__y_": 0.5787677,
+        "Long__x_": 101.444716,
+        "Nama_Jalan": "Lembah Damai",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 2.7999999999999998,
+        "Kedalaman": 1,
+        "Bahan": "Tanah",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Menggenang",
+        "Akhir_Pemb": " ",
+        "Status": "Rawan Banjir",
+        "Kondisi_Ke": "Kecil",
+        "Gambar": "assets/img/drainase/16-4_lembahdamai.jpg"
+      }
+    }]
+}
