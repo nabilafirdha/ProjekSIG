@@ -1,7 +1,4 @@
-{
-    "type": "FeatureCollection",
-    "features": [
-      {
+ [{
         "type": "Feature",
         "id": 0,
         "geometry": {
@@ -29,6 +26,7 @@
           "Status": "Tersumbat / Banyak Sampah",
           "Kondisi_Ke": " ",
           "Gambar": "assets/img/drainase/1_YosSudarso_depanStadion.jpg"
+
         }
       },
       {
@@ -1090,4 +1088,4 @@
         }
       }
     ]
-  }
+  
