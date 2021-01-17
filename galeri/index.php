@@ -1,460 +1,462 @@
-
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Drainase-Lembah Damai</title>
-        
-<!-- 
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Drainase-Lembah Damai</title>
+
+    <!-- 
 
 Sentra Template
 
 https://templatemo.com/tm-518-sentra
 
 -->
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-        <link rel="stylesheet" href="css/fontAwesome.css">
-        <link rel="stylesheet" href="css/light-box.css">
-        <link rel="stylesheet" href="css/owl-carousel.css">
-        <link rel="stylesheet" href="css/templatemo-style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/fontAwesome.css">
+    <link rel="stylesheet" href="css/light-box.css">
+    <link rel="stylesheet" href="css/owl-carousel.css">
+    <link rel="stylesheet" href="css/templatemo-style.css">
 
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
 
-        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-    </head>
+    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+</head>
 
 <body>
 
 
 
-        <header class="nav-down responsive-nav hidden-lg hidden-md">
-            <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <!--/.navbar-header-->
-            <div id="main-nav" class="collapse navbar-collapse">
-                <nav>
-                    <ul class="nav navbar-nav">
-                        <li><a href="#featured">Jalan Paus- Rumbai</a></li>
-                        <li><a href="#projects">Jalan Suka Damai</a></li>
-                        <li><a href="#blog">Jalan Type 6</a></li>
-                        
-                    </ul>
-                </nav>
-            </div>
-        </header>
-
-        <div class="sidebar-navigation hidde-sm hidden-xs">
-            <div class="logo">
-                <a href="#">Kelompok3<em> SIG</em></a>
-            </div>
+    <header class="nav-down responsive-nav hidden-lg hidden-md">
+        <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <!--/.navbar-header-->
+        <div id="main-nav" class="collapse navbar-collapse">
             <nav>
-                <ul>
-                   
-                    <li>
-                        <a href="#featured">
-                            <span class="rect"></span>
-                            <span class="circle"></span>
-                            Jalan Paus - Rumbai
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#projects">
-                            <span class="rect"></span>
-                            <span class="circle"></span>
-                            Jalan sukamaju
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="#blog">
-                            <span class="rect"></span>
-                            <span class="circle"></span>
-                            Jalan Type 6
-                        </a>
-                    </li>
-
-                   
+                <ul class="nav navbar-nav">
+                    <li><a href="#featured">Jalan Paus- Rumbai</a></li>
+                    <li><a href="#projects">Jalan Suka Damai</a></li>
+                    <li><a href="#blog">Jalan Type 6</a></li>
 
                 </ul>
             </nav>
-            <ul class="social-icons">
-               
-            </ul>
         </div>
+    </header>
 
-        <!-- <div class="slider">
+    <div class="sidebar-navigation hidde-sm hidden-xs">
+        <div class="logo">
+            <a href="#">Kelompok3<em> SIG</em></a>
+        </div>
+        <nav>
+            <ul>
+
+                <li>
+                    <a href="#featured">
+                        <span class="rect"></span>
+                        <span class="circle"></span>
+                        Jalan Paus - Rumbai
+                    </a>
+                </li>
+                <li>
+                    <a href="#projects">
+                        <span class="rect"></span>
+                        <span class="circle"></span>
+                        Jalan sukamaju
+                    </a>
+                </li>
+
+                <li>
+                    <a href="#blog">
+                        <span class="rect"></span>
+                        <span class="circle"></span>
+                        Jalan Type 6
+                    </a>
+                </li>
+
+
+
+            </ul>
+        </nav>
+        <ul class="social-icons">
+
+        </ul>
+    </div>
+
+    <!-- <div class="slider">
            
                 <!-- // Item -->
-                <!-- Item -->
-                
-                <!-- // Item -->
+    <!-- Item -->
+
+    <!-- // Item -->
+    </div>
+    </div> -->
+
+
+
+    <!-- Jalan Paus-Rumbai -->
+    <div class="page-content">
+        <section id="featured" class="content-section">
+            <div class="section-heading">
+                <h1>Jalan<br><em>Paus-Rumbai</em></h1>
+
             </div>
-        </div> -->
+            <div class="section-content">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/1_Yos Sudarso (Stadion Utama Kaharudin Nasution).png" alt="">
+                            <div class="featured-button button">
 
-        
+                            </div>
+                        </div>
+                        <div class="text-content">
+                            <h4>Lorem ipsum dolor</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/1c_type.png" alt="">
+                            <div class="featured-button button">
 
-        <!-- Jalan Paus-Rumbai -->
-        <div class="page-content">
-            <section id="featured" class="content-section">
-                <div class="section-heading">
-                    <h1>Jalan<br><em>Paus-Rumbai</em></h1>
-                   
-                </div>
-                <div class="section-content">
-                    <div class="owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/1_Yos Sudarso (Stadion Utama Kaharudin Nasution).png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Lorem ipsum dolor</h4>
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/1c_type.png" alt="">
-                                <div class="featured-button button">
-                                  
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Phasellus a lacus ac odio</h4>
+                        <div class="text-content">
+                            <h4>Phasellus a lacus ac odio</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/3_type 6.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/3_type 6.png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Proin sit amet fringilla</h4>
+                        <div class="text-content">
+                            <h4>Proin sit amet fringilla</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/6_paus.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/6_paus.png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>In volutpat augue lectus</h4>
+                        <div class="text-content">
+                            <h4>In volutpat augue lectus</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/7_paus.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/7_paus.png" alt="">
-                                <div class="featured-button button">
-                                
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Cras commodo odio</h4>
+                        <div class="text-content">
+                            <h4>Cras commodo odio</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/9_1 - paus.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/9_1 - paus.png" alt="">
-                                <div class="featured-button button">
-                                
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Sed at massa turpis</h4>
+                        <div class="text-content">
+                            <h4>Sed at massa turpis</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/9_depankampusunri.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/9_depankampusunri.png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Aliquam mollis lacus</h4>
+                        <div class="text-content">
+                            <h4>Aliquam mollis lacus</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/9-2_pausdepanHKBP.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/9-2_pausdepanHKBP.png" alt="">
-                                <div class="featured-button button">
-                                
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Mauris lacinia pretium</h4>
+                        <div class="text-content">
+                            <h4>Mauris lacinia pretium</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/featured_3.jpg" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/featured_3.jpg" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Proin sit amet fringilla erat</h4>
-                            </div>
+                        <div class="text-content">
+                            <h4>Proin sit amet fringilla erat</h4>
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
+        </section>
 
-            <!-- Jalan Lembah Damai -->
-            <section id="featured" class="content-section">
-                <div class="section-heading">
-                    <h1>Jalan<br><em>Paus-Rumbai</em></h1>
-                   
-                </div>
-                <div class="section-content">
-                    <div class="owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/1_Yos Sudarso (Stadion Utama Kaharudin Nasution).png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Lorem ipsum dolor</h4>
+        <!-- Jalan Lembah Damai -->
+        <section id="featured" class="content-section">
+            <div class="section-heading">
+                <h1>Jalan<br><em>Paus-Rumbai</em></h1>
+
+            </div>
+            <div class="section-content">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/1_Yos Sudarso (Stadion Utama Kaharudin Nasution).png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/1c_type.png" alt="">
-                                <div class="featured-button button">
-                                  
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Phasellus a lacus ac odio</h4>
+                        <div class="text-content">
+                            <h4>Lorem ipsum dolor</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/1c_type.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/3_type 6.png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Proin sit amet fringilla</h4>
+                        <div class="text-content">
+                            <h4>Phasellus a lacus ac odio</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/3_type 6.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/6_paus.png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>In volutpat augue lectus</h4>
+                        <div class="text-content">
+                            <h4>Proin sit amet fringilla</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/6_paus.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/7_paus.png" alt="">
-                                <div class="featured-button button">
-                                
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Cras commodo odio</h4>
+                        <div class="text-content">
+                            <h4>In volutpat augue lectus</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/7_paus.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/9_1 - paus.png" alt="">
-                                <div class="featured-button button">
-                                
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Sed at massa turpis</h4>
+                        <div class="text-content">
+                            <h4>Cras commodo odio</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/9_1 - paus.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/9_depankampusunri.png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Aliquam mollis lacus</h4>
+                        <div class="text-content">
+                            <h4>Sed at massa turpis</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/9_depankampusunri.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/9-2_pausdepanHKBP.png" alt="">
-                                <div class="featured-button button">
-                                
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Mauris lacinia pretium</h4>
+                        <div class="text-content">
+                            <h4>Aliquam mollis lacus</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/9-2_pausdepanHKBP.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/featured_3.jpg" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
+                        <div class="text-content">
+                            <h4>Mauris lacinia pretium</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/featured_3.jpg" alt="">
+                            <div class="featured-button button">
+
                             </div>
-                            <div class="text-content">
-                                <h4>Proin sit amet fringilla erat</h4>
-                            </div>
+                        </div>
+                        <div class="text-content">
+                            <h4>Proin sit amet fringilla erat</h4>
                         </div>
                     </div>
                 </div>
-            </section>
-            
-             <!-- Jalan Lembah Damai -->
-             <section id="featured" class="content-section">
-                <div class="section-heading">
-                    <h1>Jalan<br><em>Paus-Rumbai</em></h1>
-                   
-                </div>
-                <div class="section-content">
-                    <div class="owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/1_Yos Sudarso (Stadion Utama Kaharudin Nasution).png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Lorem ipsum dolor</h4>
+            </div>
+        </section>
+
+        <!-- Jalan Lembah Damai -->
+        <section id="featured" class="content-section">
+            <div class="section-heading">
+                <h1>Jalan<br><em>Paus-Rumbai</em></h1>
+
+            </div>
+            <div class="section-content">
+                <div class="owl-carousel owl-theme">
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/1_Yos Sudarso (Stadion Utama Kaharudin Nasution).png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/1c_type.png" alt="">
-                                <div class="featured-button button">
-                                  
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Phasellus a lacus ac odio</h4>
+                        <div class="text-content">
+                            <h4>Lorem ipsum dolor</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/1c_type.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/3_type 6.png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Proin sit amet fringilla</h4>
+                        <div class="text-content">
+                            <h4>Phasellus a lacus ac odio</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/3_type 6.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/6_paus.png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>In volutpat augue lectus</h4>
+                        <div class="text-content">
+                            <h4>Proin sit amet fringilla</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/6_paus.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/7_paus.png" alt="">
-                                <div class="featured-button button">
-                                
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Cras commodo odio</h4>
+                        <div class="text-content">
+                            <h4>In volutpat augue lectus</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/7_paus.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/9_1 - paus.png" alt="">
-                                <div class="featured-button button">
-                                
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Sed at massa turpis</h4>
+                        <div class="text-content">
+                            <h4>Cras commodo odio</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/9_1 - paus.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/9_depankampusunri.png" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Aliquam mollis lacus</h4>
+                        <div class="text-content">
+                            <h4>Sed at massa turpis</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/9_depankampusunri.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/9-2_pausdepanHKBP.png" alt="">
-                                <div class="featured-button button">
-                                
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>Mauris lacinia pretium</h4>
+                        <div class="text-content">
+                            <h4>Aliquam mollis lacus</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/9-2_pausdepanHKBP.png" alt="">
+                            <div class="featured-button button">
+
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="image">
-                                <img src="img/featured_3.jpg" alt="">
-                                <div class="featured-button button">
-                                 
-                                </div>
+                        <div class="text-content">
+                            <h4>Mauris lacinia pretium</h4>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="image">
+                            <img src="img/featured_3.jpg" alt="">
+                            <div class="featured-button button">
+
                             </div>
-                            <div class="text-content">
-                                <h4>Proin sit amet fringilla erat</h4>
-                            </div>
+                        </div>
+                        <div class="text-content">
+                            <h4>Proin sit amet fringilla erat</h4>
                         </div>
                     </div>
                 </div>
-            </section>
-            
-            <section id="contact" class="content-section">
-                <fieldset>
-                    <a href="sukamaju.html">
+            </div>
+        </section>
+
+        <section id="contact" class="content-section">
+            <fieldset>
+                <a href="sukamaju.html">
                     <button type="submit" id="form-submit" class="btn">Next Page</button>
                     </href>
-                  </fieldset>
-                
-            </section>
-            <section class="footer">
-               
-            </section>
-        </div>
+            </fieldset>
+
+        </section>
+        <section class="footer">
+
+        </section>
+    </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+    <script>
+        window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
+    </script>
 
     <script src="js/vendor/bootstrap.min.js"></script>
-    
+
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
 
@@ -465,7 +467,7 @@ https://templatemo.com/tm-518-sentra
         var delta = 5;
         var navbarHeight = $('header').outerHeight();
 
-        $(window).scroll(function(event){
+        $(window).scroll(function(event) {
             didScroll = true;
         });
 
@@ -478,23 +480,23 @@ https://templatemo.com/tm-518-sentra
 
         function hasScrolled() {
             var st = $(this).scrollTop();
-            
+
             // Make sure they scroll more than delta
-            if(Math.abs(lastScrollTop - st) <= delta)
+            if (Math.abs(lastScrollTop - st) <= delta)
                 return;
-            
+
             // If they scrolled down and are past the navbar, add class .nav-up.
             // This is necessary so you never see what is "behind" the navbar.
-            if (st > lastScrollTop && st > navbarHeight){
+            if (st > lastScrollTop && st > navbarHeight) {
                 // Scroll Down
                 $('header').removeClass('nav-down').addClass('nav-up');
             } else {
                 // Scroll Up
-                if(st + $(window).height() < $(document).height()) {
+                if (st + $(window).height() < $(document).height()) {
                     $('header').removeClass('nav-up').addClass('nav-down');
                 }
             }
-            
+
             lastScrollTop = st;
         }
     </script>
@@ -502,4 +504,5 @@ https://templatemo.com/tm-518-sentra
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
 
 </body>
+
 </html>

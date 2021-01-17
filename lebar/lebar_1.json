@@ -1,6 +1,4 @@
-{
-    "type": "FeatureCollection",
-    "features": [
+[
       {
         "type": "Feature",
         "id": 0,
@@ -810,7 +808,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Rawan Banjir",
-          "Kondisi_Ke": "Parah"
+          "Kondisi_Ke": "Parah",
+          
         }
       },
       {
@@ -839,7 +838,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": "Pembuangan Suka Maju",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/11-2_JalanSukaMaju.jpg"
         }
       },
       {
@@ -868,7 +868,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/12_JalanSukaMaju.jpg"
         }
       },
       {
@@ -897,7 +898,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Tersumbat / Banyak Sampah",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/12-1_JalanSukaMaju.jpg"
         }
       },
       {
@@ -926,7 +928,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/13_JalanSukaMaju.jpg"
         }
       },
       {
@@ -955,7 +958,8 @@
           "Arah_Alir": "Menggenang",
           "Akhir_Pemb": " ",
           "Status": "Tersumbat / Banyak Sampah",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/13-1_JalanSukaMaju.jpg"
         }
       },
       {
@@ -984,7 +988,8 @@
           "Arah_Alir": "Menggenang",
           "Akhir_Pemb": " ",
           "Status": "Tersumbat / Banyak Sampah",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/13-2_JalanSukaMaju.jpg"
         }
       },
       {
@@ -1013,7 +1018,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Tersumbat / Banyak Sampah",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/14_JalanSukaMaju.jpg"
         }
       },
       {
@@ -1042,7 +1048,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Tersumbat / Banyak Sampah",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/14-1_JalanSukaMaju.jpg"
         }
       },
       {
@@ -1071,7 +1078,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Tersumbat / Banyak Sampah",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/14-2_JalanSukaMaju.jpg"
         }
       },
       {
@@ -1100,7 +1108,8 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/15_JalanSukaMaju.jpg"
         }
       },
       {
@@ -1129,8 +1138,10 @@
           "Arah_Alir": "Kering",
           "Akhir_Pemb": " ",
           "Status": "Aman",
-          "Kondisi_Ke": " "
+          "Kondisi_Ke": " ",
+          "Gambar": "assets/img/drainase/15-1_JalanSukaMaju.jpg"
+
+
         }
       }
     ]
-  }
