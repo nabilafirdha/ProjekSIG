@@ -111,13 +111,13 @@
     <section id="peta" class="features">
         <nav>
             <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                <a class="nav-item nav-link active" id="datats-tab" data-toggle="tab" href="#arahalir" role="tab" aria-controls="arahalir" aria-selected="true">Data Arah Alir</a>
+                <a class="nav-item nav-link active" id="datats-tab" data-toggle="tab" href="#dataalir" role="tab" aria-controls="dataalir" aria-selected="true">Data Aliran Pembuangan</a>
         </nav>
 
         <div class="container-fluid" data-aos="fade-up">
             <div class="tab-content" id="nav-tabContent">
                 <!-- Data Banjir -->
-                <div class="tab-pane fade show active" id="arahalir" role="tabpanel" aria-labelledby="databj-tab">
+                <div class="tab-pane fade show active" id="dataalir" role="tabpanel" aria-labelledby="databj-tab">
                     <div class="wrap">
                         <div class="badan">
                             <div id="mapbj" class="content"></div>
@@ -126,12 +126,12 @@
                                 <a href="#" id="popup-closerbj" class="ol-popup-closer"></a>
                                 <div id="popup-contentbj"></div>
                             </div>
-                            <script type="text/javascript" src="assets/js/DataTersumbat.js"></script>
+                            <script type="text/javascript" src="assets/js/DataAlir.js"></script>
                         </div>
                     </div>
                     <br />
                     <div class="table-responsive">
-                        <table id="datatersumbat" class="table table-striped table-bordered" style="width:100%">
+                        <table id="dataalir" class="table table-striped table-bordered" style="width:100%">
                         </table>
                     </div>
 
@@ -143,7 +143,7 @@
                                 responsive: true,
                                 "ajax": {
                                     "type": "POST",
-                                    "url": "jsontable/datatersumbat.json",
+                                    "url": "jsontable/dataalir.json",
                                     "timeout": 120000,
                                     "dataSrc": function(json) {
                                         if (json != null) {
