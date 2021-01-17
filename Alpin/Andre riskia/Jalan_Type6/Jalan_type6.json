@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.429422,
+          0.57507
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "No": 5,
+        "Titik": "ParitType6_1",
+        "Lat__y_": 0.57507,
+        "Long__x_": 101.429422,
+        "Nama_Jalan": "Type 6",
+        "Panjang__m": 100,
+        "Total_panj": 400,
+        "Lebar__m_": 1.97,
+        "Kedalaman": 1,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Tersumbat / Banyak Sampah",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/1c_type.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.430452,
+          0.57513
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "No": 6,
+        "Titik": "ParitType6_1",
+        "Lat__y_": 0.57513,
+        "Long__x_": 101.430452,
+        "Nama_Jalan": "Type 6",
+        "Panjang__m": 100,
+        "Total_panj": 0,
+        "Lebar__m_": 1.97,
+        "Kedalaman": 1,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/1c_type.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.431595,
+          0.575221
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "No": 7,
+        "Titik": "ParitType6_1",
+        "Lat__y_": 0.575221,
+        "Long__x_": 101.431595,
+        "Nama_Jalan": "Type 6",
+        "Panjang__m": 100,
+        "Total_panj": 0,
+        "Lebar__m_": 1.97,
+        "Kedalaman": 1,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/1c_type.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.432495,
+          0.575274
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "No": 8,
+        "Titik": "ParitType6_1",
+        "Lat__y_": 0.575274,
+        "Long__x_": 101.432495,
+        "Nama_Jalan": "Type 6",
+        "Panjang__m": 100,
+        "Total_panj": 0,
+        "Lebar__m_": 1.97,
+        "Kedalaman": 1,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/1c_type.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.433121,
+          0.575114
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "No": 9,
+        "Titik": "ParitType6_2",
+        "Lat__y_": 0.575114,
+        "Long__x_": 101.433121,
+        "Nama_Jalan": "Type 6",
+        "Panjang__m": 100,
+        "Total_panj": 300,
+        "Lebar__m_": 1,
+        "Kedalaman": 1,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kanan",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/3_type6.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.43412,
+          0.574997
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "No": 10,
+        "Titik": "ParitType6_2",
+        "Lat__y_": 0.574997,
+        "Long__x_": 101.43412,
+        "Nama_Jalan": "Type 6",
+        "Panjang__m": 100,
+        "Total_panj": 0,
+        "Lebar__m_": 1,
+        "Kedalaman": 1,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kanan",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/3_type6.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.434958,
+          0.574551
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "No": 11,
+        "Titik": "ParitType6_2",
+        "Lat__y_": 0.574551,
+        "Long__x_": 101.434958,
+        "Nama_Jalan": "Type 6",
+        "Panjang__m": 100,
+        "Total_panj": 0,
+        "Lebar__m_": 1,
+        "Kedalaman": 1,
+        "Bahan": "Beton",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kanan",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/3_type6.jpg"
+      }
+    }
+  ]
+}

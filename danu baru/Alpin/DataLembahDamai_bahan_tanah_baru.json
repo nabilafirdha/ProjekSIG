@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.43733200007182,
+          0.6089149999273786
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "No": 29,
+        "Titik": "ParitSukaMaju_2",
+        "Lat__y_": 0.608915,
+        "Long__x_": 101.437332,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 0,
+        "Kedalaman": 0,
+        "Bahan": "Tanah",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": "Pembuangan Suka Maju",
+        "Status": "Aman",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/11-2_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.43894499981195,
+          0.6097580001316487
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "No": 31,
+        "Titik": "ParitSukaMaju_3",
+        "Lat__y_": 0.609758,
+        "Long__x_": 101.438945,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 1.2,
+        "Kedalaman": 1.5,
+        "Bahan": "Tanah",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Tersumbat / Banyak Sampah",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/12-1_JalanSukaMaju.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44477799990483,
+          0.5774070002329381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "No": 43,
+        "Titik": "ParitLembahDamai",
+        "Lat__y_": 0.577407,
+        "Long__x_": 101.444778,
+        "Nama_Jalan": "Lembah Damai",
+        "Panjang__m": 150,
+        "Total_panj": 0,
+        "Lebar__m_": 2.8,
+        "Kedalaman": 1,
+        "Bahan": "Tanah",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Menggenang",
+        "Akhir_Pemb": " ",
+        "Status": "Rawan Banjir",
+        "Kondisi_Ke": "Kecil",
+        "Gambar": "assets/img/drainase/16-3_lembahdamai.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44471599974366,
+          0.5787676996696405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "No": 44,
+        "Titik": "ParitLembahDamai",
+        "Lat__y_": 0.5787677,
+        "Long__x_": 101.444716,
+        "Nama_Jalan": "Lembah Damai",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 2.8,
+        "Kedalaman": 1,
+        "Bahan": "Tanah",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Menggenang",
+        "Akhir_Pemb": " ",
+        "Status": "Rawan Banjir",
+        "Kondisi_Ke": "Kecil",
+        "Gambar": "assets/img/drainase/16-4_lembahdamai.jpg"
+      }
+    }
+  ]
+}

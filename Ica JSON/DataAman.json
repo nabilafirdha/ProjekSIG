@@ -1,0 +1,785 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [{
+        "type": "Feature",
+        "id": 0,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.429243, 0.57362500000000005]
+        },
+        "properties": {
+            "FID": 0,
+            "No": 2,
+            "Titik": "ParitYosSudarso",
+            "Lat__y_": 0.57362500000000005,
+            "Long__x_": 101.429243,
+            "Nama_Jalan": "Yos Sudarso",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 0.80000000000000004,
+            "Kedalaman": 1.1000000000000001,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 1,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.429147, 0.57502900000000001]
+        },
+        "properties": {
+            "FID": 1,
+            "No": 3,
+            "Titik": "ParitYosSudarso",
+            "Lat__y_": 0.57502900000000001,
+            "Long__x_": 101.429147,
+            "Nama_Jalan": "Yos Sudarso",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 0.80000000000000004,
+            "Kedalaman": 1.1000000000000001,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 2,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.429344, 0.57508000000000004]
+        },
+        "properties": {
+            "FID": 2,
+            "No": 4,
+            "Titik": "ParitYosSudarso",
+            "Lat__y_": 0.57508000000000004,
+            "Long__x_": 101.429344,
+            "Nama_Jalan": "Yos Sudarso",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 0.80000000000000004,
+            "Kedalaman": 1.1000000000000001,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 3,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.430452, 0.57513000000000003]
+        },
+        "properties": {
+            "FID": 3,
+            "No": 6,
+            "Titik": "ParitType6_1",
+            "Lat__y_": 0.57513000000000003,
+            "Long__x_": 101.430452,
+            "Nama_Jalan": "Type 6",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 1.97,
+            "Kedalaman": 1,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 4,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.431595, 0.57522099999999998]
+        },
+        "properties": {
+            "FID": 4,
+            "No": 7,
+            "Titik": "ParitType6_1",
+            "Lat__y_": 0.57522099999999998,
+            "Long__x_": 101.431595,
+            "Nama_Jalan": "Type 6",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 1.97,
+            "Kedalaman": 1,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 5,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.432495, 0.57527399999999995]
+        },
+        "properties": {
+            "FID": 5,
+            "No": 8,
+            "Titik": "ParitType6_1",
+            "Lat__y_": 0.57527399999999995,
+            "Long__x_": 101.432495,
+            "Nama_Jalan": "Type 6",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 1.97,
+            "Kedalaman": 1,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 6,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.433121, 0.57511400000000001]
+        },
+        "properties": {
+            "FID": 6,
+            "No": 9,
+            "Titik": "ParitType6_2",
+            "Lat__y_": 0.57511400000000001,
+            "Long__x_": 101.433121,
+            "Nama_Jalan": "Type 6",
+            "Panjang__m": 100,
+            "Total_panj": 300,
+            "Lebar__m_": 1,
+            "Kedalaman": 1,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kanan",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 7,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43411999999999, 0.57499699999999998]
+        },
+        "properties": {
+            "FID": 7,
+            "No": 10,
+            "Titik": "ParitType6_2",
+            "Lat__y_": 0.57499699999999998,
+            "Long__x_": 101.43411999999999,
+            "Nama_Jalan": "Type 6",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 1,
+            "Kedalaman": 1,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kanan",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 8,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43495799999999, 0.57455100000000003]
+        },
+        "properties": {
+            "FID": 8,
+            "No": 11,
+            "Titik": "ParitType6_2",
+            "Lat__y_": 0.57455100000000003,
+            "Long__x_": 101.43495799999999,
+            "Nama_Jalan": "Type 6",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 1,
+            "Kedalaman": 1,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kanan",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 9,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43537499999999, 0.57092699999999996]
+        },
+        "properties": {
+            "FID": 9,
+            "No": 12,
+            "Titik": "ParitPaus_1",
+            "Lat__y_": 0.57092699999999996,
+            "Long__x_": 101.43537499999999,
+            "Nama_Jalan": "Paus",
+            "Panjang__m": 100,
+            "Total_panj": 300,
+            "Lebar__m_": 1.0600000000000001,
+            "Kedalaman": 1,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kanan",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 10,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43529599999999, 0.56995300000000004]
+        },
+        "properties": {
+            "FID": 10,
+            "No": 13,
+            "Titik": "ParitPaus_1",
+            "Lat__y_": 0.56995300000000004,
+            "Long__x_": 101.43529599999999,
+            "Nama_Jalan": "Paus",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 1.0600000000000001,
+            "Kedalaman": 1,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kanan",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 11,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43537499999999, 0.56921600000000006]
+        },
+        "properties": {
+            "FID": 11,
+            "No": 14,
+            "Titik": "ParitPaus_1",
+            "Lat__y_": 0.56921600000000006,
+            "Long__x_": 101.43537499999999,
+            "Nama_Jalan": "Paus",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 1.0600000000000001,
+            "Kedalaman": 1,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kanan",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 12,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.434498, 0.56927499999999998]
+        },
+        "properties": {
+            "FID": 12,
+            "No": 16,
+            "Titik": "ParitPaus_3",
+            "Lat__y_": 0.56927499999999998,
+            "Long__x_": 101.434498,
+            "Nama_Jalan": "Paus",
+            "Panjang__m": 100,
+            "Total_panj": 100,
+            "Lebar__m_": 1.8,
+            "Kedalaman": 1.3999999999999999,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kanan",
+            "Akhir_Pemb": "Pembuangan Paus (Asrama Unri)",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 13,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43247, 0.56919299999999995]
+        },
+        "properties": {
+            "FID": 13,
+            "No": 18,
+            "Titik": "ParitPaus_5",
+            "Lat__y_": 0.56919299999999995,
+            "Long__x_": 101.43247,
+            "Nama_Jalan": "Paus",
+            "Panjang__m": 100,
+            "Total_panj": 100,
+            "Lebar__m_": 1.8,
+            "Kedalaman": 1.3999999999999999,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 14,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.431122, 0.56926900000000002]
+        },
+        "properties": {
+            "FID": 14,
+            "No": 19,
+            "Titik": "ParitPaus_6",
+            "Lat__y_": 0.56926900000000002,
+            "Long__x_": 101.431122,
+            "Nama_Jalan": "Paus",
+            "Panjang__m": 100,
+            "Total_panj": 100,
+            "Lebar__m_": 1.8,
+            "Kedalaman": 1.3999999999999999,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Menggenang",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 15,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.430136, 0.56930000000000003]
+        },
+        "properties": {
+            "FID": 15,
+            "No": 20,
+            "Titik": "ParitPaus_7",
+            "Lat__y_": 0.56930000000000003,
+            "Long__x_": 101.430136,
+            "Nama_Jalan": "Paus",
+            "Panjang__m": 100,
+            "Total_panj": 100,
+            "Lebar__m_": 1.8,
+            "Kedalaman": 1.3999999999999999,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Menggenang",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 16,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.436896, 0.56926600000000005]
+        },
+        "properties": {
+            "FID": 16,
+            "No": 21,
+            "Titik": "ParitPaus_8",
+            "Lat__y_": 0.56926600000000005,
+            "Long__x_": 101.436896,
+            "Nama_Jalan": "Paus",
+            "Panjang__m": 100,
+            "Total_panj": 300,
+            "Lebar__m_": 0.80000000000000004,
+            "Kedalaman": 1.1000000000000001,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 17,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43694600000001, 0.57009600000000005]
+        },
+        "properties": {
+            "FID": 17,
+            "No": 22,
+            "Titik": "ParitPaus_8",
+            "Lat__y_": 0.57009600000000005,
+            "Long__x_": 101.43694600000001,
+            "Nama_Jalan": "Paus",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 0.80000000000000004,
+            "Kedalaman": 1.1000000000000001,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 18,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.437029, 0.57142000000000004]
+        },
+        "properties": {
+            "FID": 18,
+            "No": 23,
+            "Titik": "ParitPaus_8",
+            "Lat__y_": 0.57142000000000004,
+            "Long__x_": 101.437029,
+            "Nama_Jalan": "Paus",
+            "Panjang__m": 100,
+            "Total_panj": 0,
+            "Lebar__m_": 0.80000000000000004,
+            "Kedalaman": 1.1000000000000001,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 19,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.432851, 0.606576]
+        },
+        "properties": {
+            "FID": 19,
+            "No": 24,
+            "Titik": "ParitSukaMaju_1",
+            "Lat__y_": 0.606576,
+            "Long__x_": 101.432851,
+            "Nama_Jalan": "Suka Maju",
+            "Panjang__m": 150,
+            "Total_panj": 218,
+            "Lebar__m_": 0.5,
+            "Kedalaman": 0.29999999999999999,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 20,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43418200000001, 0.60653400000000002]
+        },
+        "properties": {
+            "FID": 20,
+            "No": 25,
+            "Titik": "ParitSukaMaju_1",
+            "Lat__y_": 0.60653400000000002,
+            "Long__x_": 101.43418200000001,
+            "Nama_Jalan": "Suka Maju",
+            "Panjang__m": 68,
+            "Total_panj": 0,
+            "Lebar__m_": 0.5,
+            "Kedalaman": 0.69999999999999996,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 21,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.43416999999999, 0.60708200000000001]
+        },
+        "properties": {
+            "FID": 21,
+            "No": 26,
+            "Titik": "ParitSukaMaju_1",
+            "Lat__y_": 0.60708200000000001,
+            "Long__x_": 101.43416999999999,
+            "Nama_Jalan": "Suka Maju",
+            "Panjang__m": 0,
+            "Total_panj": 0,
+            "Lebar__m_": 0.5,
+            "Kedalaman": 0.69999999999999996,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 22,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.436115, 0.60829699999999998]
+        },
+        "properties": {
+            "FID": 22,
+            "No": 27,
+            "Titik": "ParitSukaMaju_2",
+            "Lat__y_": 0.60829699999999998,
+            "Long__x_": 101.436115,
+            "Nama_Jalan": "Suka Maju",
+            "Panjang__m": 100,
+            "Total_panj": 250,
+            "Lebar__m_": 0.59999999999999998,
+            "Kedalaman": 0.87,
+            "Bahan": "Beton",
+            "Kondisi": "Rusak",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 23,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.437332, 0.60891499999999998]
+        },
+        "properties": {
+            "FID": 23,
+            "No": 29,
+            "Titik": "ParitSukaMaju_2",
+            "Lat__y_": 0.60891499999999998,
+            "Long__x_": 101.437332,
+            "Nama_Jalan": "Suka Maju",
+            "Panjang__m": 0,
+            "Total_panj": 0,
+            "Lebar__m_": 0,
+            "Kedalaman": 0,
+            "Bahan": "Tanah",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": "Pembuangan Suka Maju",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 24,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.438311, 0.60935899999999998]
+        },
+        "properties": {
+            "FID": 24,
+            "No": 30,
+            "Titik": "ParitSukaMaju_3",
+            "Lat__y_": 0.60935899999999998,
+            "Long__x_": 101.438311,
+            "Nama_Jalan": "Suka Maju",
+            "Panjang__m": 93,
+            "Total_panj": 93,
+            "Lebar__m_": 1,
+            "Kedalaman": 0.80000000000000004,
+            "Bahan": "Batu",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 25,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.440352, 0.612294]
+        },
+        "properties": {
+            "FID": 25,
+            "No": 32,
+            "Titik": "ParitSukaMaju_4",
+            "Lat__y_": 0.612294,
+            "Long__x_": 101.440352,
+            "Nama_Jalan": "Suka Maju",
+            "Panjang__m": 150,
+            "Total_panj": 165,
+            "Lebar__m_": 0.5,
+            "Kedalaman": 0.69999999999999996,
+            "Bahan": "Batu",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 26,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.44067, 0.61250700000000002]
+        },
+        "properties": {
+            "FID": 26,
+            "No": 38,
+            "Titik": "ParitSukaMaju_6",
+            "Lat__y_": 0.61250700000000002,
+            "Long__x_": 101.44067,
+            "Nama_Jalan": "Suka Maju",
+            "Panjang__m": 160,
+            "Total_panj": 160,
+            "Lebar__m_": 0.5,
+            "Kedalaman": 0.5,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 27,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.439808, 0.61137799999999998]
+        },
+        "properties": {
+            "FID": 27,
+            "No": 39,
+            "Titik": "ParitSukaMaju_6",
+            "Lat__y_": 0.61137799999999998,
+            "Long__x_": 101.439808,
+            "Nama_Jalan": "Suka Maju",
+            "Panjang__m": 0,
+            "Total_panj": 0,
+            "Lebar__m_": 0.5,
+            "Kedalaman": 0.5,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kering",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 28,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.446763, 0.57266600000000001]
+        },
+        "properties": {
+            "FID": 28,
+            "No": 40,
+            "Titik": "ParitLembahDamai",
+            "Lat__y_": 0.57266600000000001,
+            "Long__x_": 101.446763,
+            "Nama_Jalan": "Lembah Damai",
+            "Panjang__m": 220,
+            "Total_panj": 520,
+            "Lebar__m_": 3.5,
+            "Kedalaman": 1.7,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kiri",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 29,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.44593, 0.57450599999999996]
+        },
+        "properties": {
+            "FID": 29,
+            "No": 41,
+            "Titik": "ParitLembahDamai",
+            "Lat__y_": 0.57450599999999996,
+            "Long__x_": 101.44593,
+            "Nama_Jalan": "Lembah Damai",
+            "Panjang__m": 150,
+            "Total_panj": 0,
+            "Lebar__m_": 3.5,
+            "Kedalaman": 1.7,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kiri",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }, {
+        "type": "Feature",
+        "id": 30,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [101.44526500000001, 0.57574499999999995]
+        },
+        "properties": {
+            "FID": 30,
+            "No": 42,
+            "Titik": "ParitLembahDamai",
+            "Lat__y_": 0.57574499999999995,
+            "Long__x_": 101.44526500000001,
+            "Nama_Jalan": "Lembah Damai",
+            "Panjang__m": 150,
+            "Total_panj": 0,
+            "Lebar__m_": 2.7000000000000002,
+            "Kedalaman": 2,
+            "Bahan": "Beton",
+            "Kondisi": "Bagus",
+            "Arah_Alir": "Kiri",
+            "Akhir_Pemb": " ",
+            "Status": "Aman",
+            "Kondisi_Ke": " "
+        }
+    }]
+}

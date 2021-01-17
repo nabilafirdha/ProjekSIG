@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4383110002525,
+          0.609358999718097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "No": 30,
+        "Titik": "ParitSukaMaju_3",
+        "Lat__y_": 0.609359,
+        "Long__x_": 101.438311,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 93,
+        "Total_panj": 93,
+        "Lebar__m_": 1,
+        "Kedalaman": 0.8,
+        "Bahan": "Batu",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44035199994488,
+          0.612294000168049
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "No": 32,
+        "Titik": "ParitSukaMaju_4",
+        "Lat__y_": 0.612294,
+        "Long__x_": 101.440352,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 150,
+        "Total_panj": 165,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.7,
+        "Bahan": "Batu",
+        "Kondisi": "Bagus",
+        "Arah_Alir": "Kering",
+        "Akhir_Pemb": " ",
+        "Status": "Aman",
+        "Kondisi_Ke": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44101599998845,
+          0.6134519996101631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "No": 33,
+        "Titik": "ParitSukaMaju_4",
+        "Lat__y_": 0.613452,
+        "Long__x_": 101.441016,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 15,
+        "Total_panj": 0,
+        "Lebar__m_": 0.5,
+        "Kedalaman": 0.7,
+        "Bahan": "Batu",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Menggenang",
+        "Akhir_Pemb": " ",
+        "Status": "Tersumbat / Banyak Sampah",
+        "Kondisi_Ke": " "
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.44099499991938,
+          0.6135400000709978
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "No": 34,
+        "Titik": "ParitSukaMaju_4",
+        "Lat__y_": 0.61354,
+        "Long__x_": 101.440995,
+        "Nama_Jalan": "Suka Maju",
+        "Panjang__m": 0,
+        "Total_panj": 0,
+        "Lebar__m_": 0.8,
+        "Kedalaman": 0.8,
+        "Bahan": "Batu",
+        "Kondisi": "Rusak",
+        "Arah_Alir": "Menggenang",
+        "Akhir_Pemb": " ",
+        "Status": "Tersumbat / Banyak Sampah",
+        "Kondisi_Ke": " ",
+        "Gambar": "assets/img/drainase/13_JalanSukaMaju.jpg"
+      }
+    }
+  ]
+}
